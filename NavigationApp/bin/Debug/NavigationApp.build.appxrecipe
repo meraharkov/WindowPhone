@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>M-OVSIANNIKOV</Machine>
+    <WindowsUser>maksym.ovsiannikov</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cb443b9b-1b30-481d-b0b9-d63ae501606b</PackageIdentityName>
+    <IntermediateOutputPath>E:\Test Projects\Window Phone\NavigationApp\NavigationApp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\bin\Debug\NavigationApp.exe">
+      <PackagePath>NavigationApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\bin\Debug\Page2.xbf">
+      <PackagePath>Page2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\bin\Debug\Page3.xbf">
+      <PackagePath>Page3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\bin\Debug\NavigationApp.xr.xml">
+      <PackagePath>NavigationApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Test Projects\Window Phone\NavigationApp\NavigationApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
